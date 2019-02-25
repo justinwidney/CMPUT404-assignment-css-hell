@@ -22,3 +22,15 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
 
+Modification
+=================
+Added fonts
+changed colors for visited links
+changed margin alignment
+Added border to images
+justified paragraph text
+resized headers
+using a <link rel="stylesheet" type="text/css" href="customstyle.css">
+
+Sources:
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts
