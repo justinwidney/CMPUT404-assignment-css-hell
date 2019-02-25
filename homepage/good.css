@@ -12,10 +12,10 @@ body {
     font-family: "Istok Web", sans-serif;
     margin: 10px;
     height: 100%;
-   
+
     margin: 20px;
-    padding: 20px;  
-   
+    padding: 20px;
+
     background: white;
 }
 
@@ -23,12 +23,12 @@ body {
     width: 15%;
     border-radius: 5px;
     padding-top: 25px;
-    
+
  }
 
 div.header {
 	padding-bottom: 0;
-	
+
 
 }
 
@@ -42,14 +42,28 @@ padding-top: 0;
   border-style: solid;
   border-right: 5px;
   border-top: 0px;
- 
-  
+
+
 
 }
 
-.ImportantPoints h2{
-	font-weight: bold;
+
+
+.sidebar-right{
+    background-color:  	#BEBEBE;
+    width: 25%;
+    height: 50%;
+    float: right;
+    position:absolute;
+    top: 223px;
+    right: 50px;
+    padding: 5px;
+
+
+
+
 }
+
 
 ul{
 	margin-left: 20px;
@@ -61,6 +75,9 @@ p{
 margin-left: 10px;
 }
 
+.sidebar-right h3 {
+  padding: 5px;
+}
 
 .Skillset h2{
 	font-weight: bold;
@@ -70,7 +87,7 @@ margin-left: 10px;
 	font-weight: bold;
 	padding-top: 0px;
 	margin-top: 0px;
-	
+
 
 }
 
