@@ -47,8 +47,9 @@ justified paragraph text
 
 resized headers
 
-using a <link rel="stylesheet" type="text/css" href="customstyle.css">
+using a "link rel="stylesheet" type="text/css" href="customstyle.css" "
 
 Sources:
 https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts
+
 https://developers.google.com/fonts/docs/getting_started
