@@ -41,13 +41,13 @@ img{
 
   margin: auto;
   border: 2px solid black;
+  width: 75%;
+
+
 
 }
 
-div.fig{
-width: 50%;
-border: 2px solid black;
-}
+
 
 h1{
 font-size: 50px;
