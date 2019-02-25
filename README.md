@@ -34,12 +34,19 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 Modification
 =================
 Added custom font
+
 changed colors for visited links
+
 changed margin alignment
+
 Added border to images
+
 resized images
+
 justified paragraph text
+
 resized headers
+
 using a <link rel="stylesheet" type="text/css" href="customstyle.css">
 
 Sources:
